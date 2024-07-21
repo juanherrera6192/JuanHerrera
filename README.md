@@ -1,8 +1,7 @@
 <p align='center'> 
 
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTcyMW5ndmFrczJ5aXRvY290NHM3Ym40c3d0dDkyZ2JwbDV5MjJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPN6dcdruDgdi/giphy.gif
-" width="400"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTcyMW5ndmFrczJ5aXRvY290NHM3Ym40c3d0dDkyZ2JwbDV5MjJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPN6dcdruDgdi/giphy.gif" width="400"/>
 
 <div id="badges">
 <a href="https://linkedin.com/in/juan-herrera8/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="mailto:juanherrera6192@gmail.com"> <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> 
